@@ -1,5 +1,6 @@
 # TrabalhoS206
 Repositório criado para o trabalho de qualidade de software
+Integrantes: Sarah Alves Chagas e Davi dos Santos Balbino Marcelino
 
 Para acompanhar os testes realizados nesse trabalho, será necessário utilizar algumas ferramentas para quem utiliza o SO Windows:
 
